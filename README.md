@@ -1,5 +1,5 @@
 # 50-Day-Python-Challenge
-This list contains 50 Python programming ideas, ranging from simple programs to more complex ones, to help you complete a 50-day Python challenge of building one program per day.
+This list contains 50 Python programming ideas, ranging from simple programs to more complex ones.
 ## Let's Begin!! 
 1. Build a calculator using Python.
 2. Create a program that converts temperatures between Celsius and Fahrenheit.
